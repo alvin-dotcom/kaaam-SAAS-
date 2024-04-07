@@ -20,14 +20,14 @@ export default function About() {
 				<div className="flex flex-col lg:max-w-md xl:max-w-2xl 2xl:max-w-4xl">
 					<h2 className="font-bold text-6xl pb-6">About Us</h2>
 					<p>
-					<a className="text-yellow-btn-primary underline underline-offset-4 hover:text-yellow-600" href="https://www.paninopanini.co.uk/" target="_blank" rel="noreferrer">
+					<a className="text-yellow-btn-primary underline underline-offset-4 hover:text-yellow-600"  target="_blank" rel="noreferrer">
 					Welcome to our platform!
 						</a>{" "}
 					 We're a dedicated team passionate about assisting college students by providing tailored note-taking and assignment services. {" "}
 					
 					</p>
 					<p className="pt-8">
-					<a className="text-yellow-btn-primary underline underline-offset-4 hover:text-yellow-600" href="https://www.paninopanini.co.uk/" target="_blank" rel="noreferrer">
+					<a className="text-yellow-btn-primary underline underline-offset-4 hover:text-yellow-600" target="_blank" rel="noreferrer">
 					With our expertise,
 						</a>{" "}
 						 we aim to support academic success, enabling students to excel in their studies effortlessly.{" "}
