@@ -19,31 +19,31 @@ const galleryThumbnails = [
 		id: 2,
 		src: "/gallery/thumbnails/thumbnail-2.jpg",
 		club: "Review 2",
-		slides: [{ src: "/gallery/slider-images/slider-4.jpg" }, { src: "/gallery/slider-images/slider-5.jpg" }, { src: "/gallery/slider-images/slider-6.jpg" }],
+		slides: [{ src: "/gallery/slider-images/slider-2.jpg" }, { src: "/gallery/slider-images/slider-5.jpg" }, { src: "/gallery/slider-images/slider-6.jpg" }],
 	},
 	{
 		id: 3,
 		src: "/gallery/thumbnails/thumbnail-3.jpg",
 		club: "Review 3",
-		slides: [{ src: "/gallery/slider-images/slider-7.jpg" }, { src: "/gallery/slider-images/slider-8.jpg" }, { src: "/gallery/slider-images/slider-9.jpg" }],
+		slides: [{ src: "/gallery/slider-images/slider-3.jpg" }, { src: "/gallery/slider-images/slider-8.jpg" }, { src: "/gallery/slider-images/slider-9.jpg" }],
 	},
 	{
 		id: 4,
 		src: "/gallery/thumbnails/thumbnail-4.jpg",
 		club: "Review 4",
-		slides: [{ src: "/gallery/slider-images/slider-10.jpg" }, { src: "/gallery/slider-images/slider-11.jpg" }, { src: "/gallery/slider-images/slider-12.jpg" }],
+		slides: [{ src: "/gallery/slider-images/slider-4.jpg" }, { src: "/gallery/slider-images/slider-11.jpg" }, { src: "/gallery/slider-images/slider-12.jpg" }],
 	},
 	{
 		id: 5,
 		src: "/gallery/thumbnails/thumbnail-5.jpg",
 		club: "Review 5",
-		slides: [{ src: "/gallery/slider-images/slider-13.jpg" }, { src: "/gallery/slider-images/slider-14.jpg" }, { src: "/gallery/slider-images/slider-15.jpg" }],
+		slides: [{ src: "/gallery/slider-images/slider-5.jpg" }, { src: "/gallery/slider-images/slider-14.jpg" }, { src: "/gallery/slider-images/slider-15.jpg" }],
 	},
 	{
 		id: 6,
 		src: "/gallery/thumbnails/thumbnail-6.jpg",
 		club: "Review 6",
-		slides: [{ src: "/gallery/slider-images/slider-16.jpg" }, { src: "/gallery/slider-images/slider-17.jpg" }, { src: "/gallery/slider-images/slider-18.jpg" }],
+		slides: [{ src: "/gallery/slider-images/slider-6.jpg" }, { src: "/gallery/slider-images/slider-17.jpg" }, { src: "/gallery/slider-images/slider-18.jpg" }],
 	},
 ];
 
